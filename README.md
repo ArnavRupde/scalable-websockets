@@ -1,8 +1,12 @@
 # Scalable websockets server
 
-### Websocket server written in NodeJS
-### Supported in auto-scaling mode (Kubernetes)
-### Uses Redis Pub-Sub internally to share data between multiple node js servers
+- Websocket server written in NodeJS (Typescript)
+- Supported in horizontal auto-scaling mode (Kubernetes)
+- Uses Redis Pub-Sub internally to share data between multiple node js servers
+
+# Screenshot
+
+![VirtualBox_ubuntu1_27_12_2023_19_02_34](https://github.com/ArnavRupde/scalable-websockets/assets/34592221/f38d3054-fd19-4b2a-87e0-5a6fc3aa6234)
 
 
 # How to run locally using Node JS?
